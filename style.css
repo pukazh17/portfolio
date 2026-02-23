@@ -39,7 +39,7 @@ nav a {
     height: 140px;
     border-radius: 50%;
     object-fit: cover;
-    border: 1px solid #00f7ff;
+    border: 2px solid #00f7ff;
     margin-bottom: 20px;
     transition: 0.3s;
     background: #1e293b;
@@ -112,4 +112,5 @@ footer {
     padding: 20px;
     background: #0b1120;
     color: #94a3b8;
+
 }
